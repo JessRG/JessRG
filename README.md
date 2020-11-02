@@ -1,6 +1,7 @@
 ## Welcome to my Github 👋, my name is Jesus Garza
 
-###. 🤔 I’m looking for help with ...
+ - 🤔 I’m looking to collaborate on Full Stack projects.
+ 
 <!--
 **JessRG/JessRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
