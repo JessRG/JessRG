@@ -1,6 +1,6 @@
-### Welcome to my Github 👋, my name is Jesus Garza
+## Welcome to my Github 👋, my name is Jesus Garza
 
-# 🤔 I’m looking for help with ...
+###. 🤔 I’m looking for help with ...
 <!--
 **JessRG/JessRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
