@@ -1,6 +1,6 @@
 ## Welcome to my Github 👋, my name is Jesus Garza
 
- - 🤔 I’m looking to collaborate on Full Stack projects.
+ - 🤔 I’m looking to collaborate on full-stack projects with Java as the backend language.
  
 <!--
 **JessRG/JessRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
