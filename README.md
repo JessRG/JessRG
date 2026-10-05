@@ -1,4 +1,4 @@
-## Welcome to my Github 👋, my name is Jesus Garza
+## Welcome to my Github 👋, my name is Jesse
 
  - 🤔 I’m looking to collaborate on full-stack projects with Python as the backend language.
  
