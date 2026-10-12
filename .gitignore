@@ -1,0 +1,14 @@
+# JetBrains Academy / EduTools metadata
+*-info.yaml
+*-remote-info.yaml
+.courseignore
+.venv/
+
+# JetBrains IDE configuration folder
+.idea/
+
+*.sqlite
+__pycache__/
+*.pyc
+.project_config
+.env
